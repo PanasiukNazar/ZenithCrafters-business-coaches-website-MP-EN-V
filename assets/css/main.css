@@ -1471,7 +1471,6 @@ section,
 
 .testimonials .testimonial-item .testimonial-img {
     width: 90px;
-    border-radius: 50px;
     border: 6px solid var(--background-color);
     float: left;
     margin: 0 10px 0 0;
